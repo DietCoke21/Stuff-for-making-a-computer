@@ -11,7 +11,7 @@ Motherboard $4.99
 
 https://www.amazon.com/Group-Vertical%C2%AE-right-angle-motherboard-Connector/dp/B007X4TSOA/ref=sr_1_22?s=pc&ie=UTF8&qid=1466045943&sr=1-22&keywords=motherboard&refinements=p_76%3A1249137011%2Cp_36%3A-2000
 
-Intel Core Processor (CPU) $80.00
+Intel Core Processor (CPU) $93.60
 
 https://www.amazon.com/Core-Duo-T5600-Mobile-Proces/dp/B000HNFA50/ref=sr_1_53?s=pc&ie=UTF8&qid=1466045707&sr=1-53&keywords=Intel+Core+Processor+%28CPU%29
 

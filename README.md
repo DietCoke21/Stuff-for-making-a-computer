@@ -15,9 +15,9 @@ Intel Core Processor (CPU) $93.60
 
 https://www.amazon.com/Core-Duo-T5600-Mobile-Proces/dp/B000HNFA50/ref=sr_1_53?s=pc&ie=UTF8&qid=1466045707&sr=1-53&keywords=Intel+Core+Processor+%28CPU%29
 
-4GB DDR Memory $38.99
+4GB DDR Memory $14.99
 
-https://www.amazon.com/s/ref=sr_st_price-asc-rank?keywords=ddr4&fst=as%3Aoff&rh=n%3A172282%2Cn%3A541966%2Cn%3A193870011%2Cn%3A172500%2Ck%3Addr4%2Cp_36%3A-2000%2Cp_76%3A1249137011%2Cp_72%3A1248879011%2Cp_n_feature_five_browse-bin%3A673263011&qid=1466045243&sort=price-asc-rank
+https://www.amazon.com/Crucial-PC4-17000-Unbuffered-288-Pin-CT4G4DFS8213/dp/B00MMLUYPQ/ref=sr_1_1?s=pc&ie=UTF8&qid=1466088442&sr=1-1&keywords=ddr4&refinements=p_36%3A-2000%2Cp_76%3A1249137011%2Cp_72%3A1248879011%2Cp_n_feature_five_browse-bin%3A673263011
 
 DVD Drive $14.99
 

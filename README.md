@@ -7,7 +7,7 @@ Power Supply $16.40
 
 https://www.amazon.com/iMicro-IM400W-ATX12V-Power-Supply/dp/B002HREGRM/ref=sr_1_10?s=pc&ie=UTF8&qid=1466046103&sr=1-10&keywords=power+supply+for+computer&refinements=p_76%3A1249137011%2Cp_36%3A-2000
 
-Motherboard $18.00
+Motherboard $4.99
 
 https://www.amazon.com/Group-Vertical%C2%AE-right-angle-motherboard-Connector/dp/B007X4TSOA/ref=sr_1_22?s=pc&ie=UTF8&qid=1466045943&sr=1-22&keywords=motherboard&refinements=p_76%3A1249137011%2Cp_36%3A-2000
 

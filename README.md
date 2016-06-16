@@ -19,7 +19,7 @@ https://www.amazon.com/Core-Duo-T5600-Mobile-Proces/dp/B000HNFA50/ref=sr_1_53?s=
 
 https://www.amazon.com/Crucial-PC4-17000-Unbuffered-288-Pin-CT4G4DFS8213/dp/B00MMLUYPQ/ref=sr_1_1?s=pc&ie=UTF8&qid=1466088442&sr=1-1&keywords=ddr4&refinements=p_36%3A-2000%2Cp_76%3A1249137011%2Cp_72%3A1248879011%2Cp_n_feature_five_browse-bin%3A673263011
 
-DVD Drive $14.99
+DVD Drive $12.99
 
 https://www.amazon.com/LITE--CORPORATION-SOHW-1673S-06-Drive-retail-black/dp/B0007U0IC8/ref=sr_1_16?s=pc&ie=UTF8&qid=1466045370&sr=1-16&keywords=dvd+drive+for+computer&refinements=p_36%3A-2000%2Cp_76%3A1249137011%2Cp_72%3A1248879011
 

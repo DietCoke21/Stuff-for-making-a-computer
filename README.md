@@ -1,7 +1,6 @@
 #Stuff I need for making a computer
 
-Hard-Drive $37.00
-
+Hard-Drive $15.89
 https://www.amazon.com/Hot-Swap-Desktop-Optical-Internal-Enclosure/dp/B01534SBHG/ref=sr_1_3?s=pc&ie=UTF8&qid=1466044587&sr=1-3&keywords=hard+drive&refinements=p_36%3A-2000%2Cp_n_feature_keywords_four_browse-bin%3A8067154011%2Cp_76%3A1249137011%2Cp_n_feature_keywords_three_browse-bin%3A4990426011
 
 Power Supply $14.99
